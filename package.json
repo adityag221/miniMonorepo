@@ -5,6 +5,9 @@
       "build": "tsc",
       "test": "echo test at root"
     },
+    "workspaces": [
+      "packages/*"
+    ],
     "dependencies": {
       "typescript": "^4.7.3"
     }
