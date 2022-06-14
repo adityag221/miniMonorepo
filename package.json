@@ -1,0 +1,12 @@
+{
+    "name": "root",
+    "private": true,
+    "scripts": {
+      "build": "tsc",
+      "test": "echo test at root"
+    },
+    "dependencies": {
+      "typescript": "^4.7.3"
+    }
+}
+  
